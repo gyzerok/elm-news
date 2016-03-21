@@ -1,4 +1,4 @@
-module Counter (..) where
+module App (..) where
 
 import Html exposing (..)
 import Html.Events exposing (..)
